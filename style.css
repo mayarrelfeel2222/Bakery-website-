@@ -1,0 +1,253 @@
+.section2{
+    padding-top: 10%; padding-bottom: 10%;
+}
+.pies_photo{
+    
+    width:40%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 135px;
+    margin-right: 15px;
+    
+   
+}
+.who_we_are{
+    width: 35%;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 20px;
+    font-family: 'Alegreya', serif;
+    color:#686868;
+    margin:50px ;
+    line-height: 1.86em;
+    font-weight:100;
+    margin-right:5%;
+
+    
+   
+}
+.section2 .pies_photo img{
+    width:100%;
+}
+.section2 .who_we_are img{
+    width: 6%;
+    border: solid gray 1px;
+    border-radius: 50%;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+
+.section2 .who_we_are h2{
+    color: black;
+    line-height:44.16px
+    
+}
+.section2 .who_we_are ul{
+    list-style-type: none;
+}
+
+.section3{
+    padding-top: 10%; padding-bottom: 10%;
+    background-color: #F8F8F8;
+}
+.kitchen_photo{
+    
+    width:40%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 135px;
+    margin-right: 15px;
+    
+   
+}
+.our_location{
+    width: 35%;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 20px;
+    font-family: 'Alegreya', serif;
+    color:#686868;
+    margin:50px ;
+    line-height: 1.86em;
+    font-weight:100;
+    margin-right:5%;
+
+    
+   
+}
+.section3 .kitchen_photo img{
+    width:100%;
+}
+.section3 .our_location h2{
+    color: black;
+    line-height:44.16px
+    
+}
+.section4{
+    padding: 10% 6%;
+}
+.section4 .our_backing {
+    font-family: 'Alegreya', serif;
+    color:#686868; 
+    text-align: center;
+    margin-bottom: 3%;
+}
+.items{
+    text-align: center;
+    width: 28%;
+    display: inline-block;
+    margin:2%;
+    font-family: 'Alegreya', serif;
+    color:#686868;
+    line-height: 1.86em;
+}
+.section4 .items img{
+    width: 100%;
+}
+.section4 .our_backing h2{
+    color: black;
+    
+}
+.section4 .items h3{
+    color: black;
+}
+.section5{
+overflow: hidden;
+padding: 10%;
+background-color:#F8F8F8 ;
+}
+.section5 .contact{
+    width:50%;
+    float: left;
+    font-size: 20px;
+    font-family: 'Alegreya', serif;
+    color:#686868;
+   /* margin:50px ;*/
+    line-height: 1.86em;
+    font-weight:100;
+    /*margin-right:5%;*/
+   
+}
+.section5 .contact img{
+    width: 6%;
+    border: solid #8E7754 1px;
+    border-radius: 50%;
+    /*margin-right: 10px;*/
+    margin-top: 15px;
+    background-color: #8E7754;
+
+}
+.section5 .contact ul{
+    list-style-type: none;
+}
+.section5 h2{
+    color: black;
+}
+.section5 .map iframe{
+    width:"100%";
+     height: 70%;
+}
+.section5 .map{
+    float: left;
+    padding-left: 20%;
+}
+.section6{
+overflow: hidden;
+background-color: #403D38;
+font-family: 'Alegreya', serif;
+    color:#686868;
+    padding: 10%;
+
+}
+.section6 .first_list{
+    width: 25%;
+float: left;
+}
+.section6 .lists{
+    width: 25%;
+    float: left;
+    list-style-type: lower-greek;
+}
+.section6   h3{
+    color: white;
+    line-height:44.16px
+    
+}
+
+.section6 .last{
+    width: 25%;
+    float: left;
+}
+.section6 .last img{
+    width: 6%;
+}
+
+ul {
+    list-style: none;
+}
+.section6 .last  ul{
+    list-style: none;
+}
+ .section7{
+    text-align: center;
+    background-color: #353330;
+    overflow: hidden;
+    padding: 10%;
+    
+ }
+ .section7 img{
+    width: 20%;
+    margin: auto;
+    background-color:white;
+    
+    
+ }
+ .section7 span{
+    width: 6%;
+    float: left;
+    margin: auto;
+
+ }
+ .section7 p{
+    color: #686868;
+ }
+
+
+ .section1{
+    background-image: url('Bakery images/images/drew-coffman-1872.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-attachment:scroll;
+    padding: 5px;
+
+ }
+ 
+ .section6 .last {
+    background-image: url('Bakery images/images/contact-details-map.png');
+    
+ }
+ .section6 hr{
+    background-color:#686868;
+
+ }
+ .section1 .heading{
+    font-family: 'Alegreya', serif;
+    color: #F8F8F8;
+    text-align: center;
+   margin-top: 150px;
+    font-size: 30px;
+ }
+ .section1 .heading .learn{
+    padding: 15px 15px;
+    background-color: #8E7754;
+    border: none;
+    color: #F8F8F8;
+ }
+ .section1 .heading .contact_us{
+    padding: 15px 15px;
+    background-color:transparent;
+    border-style: solid;
+    border-color: aliceblue;
+    border-width: 2px;
+    color: #F8F8F8;
+ }
